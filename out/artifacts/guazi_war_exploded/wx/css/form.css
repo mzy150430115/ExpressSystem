@@ -1,0 +1,50 @@
+body{
+    background-image: url(../images/form-bg.jpg);
+
+}
+
+.main>h3{
+    font-size: 32px;
+    text-align: center;
+    color:#fff;
+}
+
+.login-form{
+    margin-top: 100px;
+    background: #fff;
+    padding: 50px 10px;
+    margin: 0px 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px #999;
+}
+
+.input{
+    padding: 5px 15px;
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    padding-left: 36px;
+}
+.username{
+    background: url(../images/user.png);
+    background-repeat: no-repeat;
+}
+.password{
+    background: url(../images/password.png);
+    background-repeat: no-repeat;
+}
+
+.btn{
+    padding: 5px 15px;
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    background: #6ab161;
+    color: #fff;
+
+}
+
